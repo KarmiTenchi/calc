@@ -86,3 +86,9 @@ input {
   background-color: #f48a00;
   box-shadow: 1px 6px rgb(243, 117, 0);
 }
+
+a {
+  color: #3a2407;
+  text-decoration: none;
+  cursor: pointer;
+}
